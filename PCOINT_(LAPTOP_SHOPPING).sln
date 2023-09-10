@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCOINT_(LAPTOP_SHOPPING)", "PCOINT_(LAPTOP_SHOPPING)\PCOINT_(LAPTOP_SHOPPING).csproj", "{BE32362C-D8F5-4AD9-AD12-263C1C722F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE32362C-D8F5-4AD9-AD12-263C1C722F0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE32362C-D8F5-4AD9-AD12-263C1C722F0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE32362C-D8F5-4AD9-AD12-263C1C722F0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE32362C-D8F5-4AD9-AD12-263C1C722F0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB0471D1-DDF7-44AD-9A30-FD49414D0491}
+	EndGlobalSection
+EndGlobal
